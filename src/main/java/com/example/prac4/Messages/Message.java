@@ -1,10 +1,8 @@
 package com.example.prac4.Messages;
 
 public class Message {
-
     private String from;
     private String text;
-
 
     public String getFrom() {
         return from;

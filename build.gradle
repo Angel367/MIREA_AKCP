@@ -21,6 +21,7 @@ dependencies {
     implementation 'org.springframework:spring-websocket'
     implementation 'org.springframework:spring-messaging'
     implementation 'org.springframework.boot:spring-boot-starter-thymeleaf'
+    testImplementation 'org.springframework.boot:spring-boot-starter-test'
 }
 
 tasks.named('test') {
