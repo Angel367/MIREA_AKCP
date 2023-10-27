@@ -1,2 +1,2 @@
-Django
-Django-rest-framework
+Django~=4.2.6
+djangorestframework~=3.14.0
